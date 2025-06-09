@@ -1,5 +1,5 @@
-🎉 WeeklyMark – Automate Your Weekly Reviews & Master Markdown Productivity 🎉
-Say goodbye to tedious manual reviews! WeeklyMark is an innovative Python-powered tool that effortlessly transforms your weekly Markdown notes into intuitive, beautifully summarized reports—saving you precious Sunday afternoons! 🚀✨
+# 🎉 WeeklyMark – Automate Your Weekly Reviews & Master Markdown Productivity 🎉
+### Say goodbye to tedious manual reviews! WeeklyMark is an innovative Python-powered tool that effortlessly transforms your weekly Markdown notes into intuitive, beautifully summarized reports—saving you precious Sunday afternoons! 🚀✨
 
 ![WeeklyMark Demo](https://public-files.gumroad.com/v65zlxxdshfvxm0zkpy2aozv3pc7)
 
