@@ -14,4 +14,4 @@ Simplify your workflow, boost productivity, and streamline your week with our in
 - 🚀 Enhanced productivity through clear weekly organization
 ### - 👉 [Grab your copy now](https://store.funkaey.com)
 
-Want to know more details? Check out our full announcement over at our blog post.
+Want to know more details? (Check out our full announcement over at our blog post.)[https://www.funkaey.com/blog/WeeklyMark-finally-out]
