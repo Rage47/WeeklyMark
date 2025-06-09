@@ -48,7 +48,7 @@ We've been there. Digging through scattered Markdown files, endless scrolling, t
 
 ## Quick Start 🚦
 
-- 📥 [Download & install](https://link.funkaey.com/git) WeeklyMark for your OS.
+- 📥 [Download & install](https://store.funkaey.com) WeeklyMark for your OS.
 - 📂 Select your Markdown notes directory.
 - 🔑 (Optional) Paste your OpenAI API key for AI summaries (Supporter's Edition).
 - 🖱️ Click "Generate Report" and watch WeeklyMark effortlessly produce your weekly overview!
@@ -56,7 +56,7 @@ We've been there. Digging through scattered Markdown files, endless scrolling, t
 
 🎈 Ready to reclaim your weekends and fall in love with Markdown again? 🎈
 
-[👉 Download WeeklyMark Now! (Maybe Still on Sale 😉)](https://link.funkaey.com/git)
+[👉 Download WeeklyMark Now! (Maybe Still on Sale 😉)](https://store.funkaey.com)
 
 Happy productivity, Markdown lovers! We can't wait for your feedback. 🎉✨
 
