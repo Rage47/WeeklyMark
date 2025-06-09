@@ -1,5 +1,5 @@
 # 🎉 WeeklyMark
-## Automate Your Weekly Reviews & Master Markdown Productivity 🎉
+## [Automate Your Weekly Reviews & Master Markdown Productivity 🎉](store.funkaey.com)
 ### Say goodbye to tedious manual reviews! 
 #### WeeklyMark is an innovative Python-powered tool that effortlessly transforms your weekly Markdown notes into intuitive, beautifully summarized reports—saving you precious Sunday afternoons! 🚀✨
 
@@ -12,16 +12,16 @@ We've been there. Digging through scattered Markdown files, endless scrolling, t
 
 ## ✨ Awesome Features You'll Love:
 
-### - ✅ Automatic Task Aggregation
+### ✅ Automatic Task Aggregation
 - Effortlessly compiles completed tasks across multiple Markdown files.
-### - 🤖 Smart AI-Generated Summaries (Optional OpenAI Integration)
+### 🤖 Smart AI-Generated Summaries (Optional OpenAI Integration)
 - Get concise, polished overviews via AI, as if you had a diligent personal assistant combing through your week.
-### - 🎨 Beautiful, Ready-To-Share Markdown Output
+### 🎨 Beautiful, Ready-To-Share Markdown Output
 - Elegant and instantly shareable weekly summaries—perfectly formatted, delightful to read.
-### - 🌐 Platform-Agnostic
+### 🌐 Platform-Agnostic
 - Proudly supports your favorite editing tools—Obsidian, Typora, VS Code, or any Markdown workflow. Just point to your vault or folder and WeeklyMark handles the rest.
 
-#### - 🖥️ Cross-Platform Delight
+#### 🖥️ Cross-Platform Delight
 - ✅ macOS (Native)
 - ✅ Windows (Native)
 - 🚧 Linux AppImage (Coming Soon!)
