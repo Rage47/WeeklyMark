@@ -1,5 +1,5 @@
 # 🎉 WeeklyMark is Finally Out! 🎉
-## We're excited to announce: WeeklyMark has officially launched! 
+## We're excited to announce: [WeeklyMark has officially launched!](https://store.funkaey.com)
 Simplify your workflow, boost productivity, and streamline your week with our innovative weekly markdown editor.
 
 ![WeeklyMark Demo](https://public-files.gumroad.com/v65zlxxdshfvxm0zkpy2aozv3pc7)
