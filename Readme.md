@@ -1,3 +1,4 @@
+
 # WeeklyMark
 ### The bridge between your daily mess and your weekly review
 
@@ -34,7 +35,7 @@ Using Obsidian as a "Second Brain" often turns the weekly review into a manual c
 ## The Solution
 WeeklyMark automates the discovery phase of your review.
 * **Automated Extraction**: Pulls every task and tag from notes modified within a specified timeframe, such as the last 7 days.
-* **AI-Powered Synthesis**: Utilizes models like GPT-4.1-mini to transform raw tasks and tags into a concise executive summary.
+* **AI-Powered Synthesis**: Utilizes models like GPT-4o-mini to transform raw tasks and tags into a concise executive summary.
 * **Dual-Mode Flexibility**: Offers a CLI for automated workflows and a PyQt6 GUI for a standard desktop experience.
 
 ![WeeklyMark Demo](https://public-files.gumroad.com/v65zlxxdshfvxm0zkpy2aozv3pc7)
@@ -54,20 +55,20 @@ WeeklyMark automates the discovery phase of your review.
 
 1. **Clone and Install**:
    ```bash
-   git clone https://github.com/Rage47/WeeklyMark.git
+   git clone [https://github.com/Rage47/WeeklyMark.git](https://github.com/Rage47/WeeklyMark.git)
    pip install -r Requirements.txt
    ```
   
 
-2. **Run the GUI**:
+2. **Run the GUI (Desktop App)**:
    ```bash
-   python obs-weekly-UI.py
+   python __main__.py
    ```
   
 
-3. **Generate a Report (CLI)**:
+3. **Generate a Report (CLI mode)**:
    ```bash
-   python obs-weekly-UI.py ~/MyVault --summarize --output ./Weekly-Report.md
+   python __main__.py ~/MyVault --summarize --output ./Weekly-Report.md
    ```
   
 
@@ -93,7 +94,7 @@ If you don't want to mess with `pip install`, Python virtual environments, or ex
 
 You can grab the plug-and-play desktop app (and support my late-night coding sessions) over on Gumroad:
 
-👉 [Get the WeeklyMark Desktop App Here](https://link.funkaey.com/git)
+### 👉 [Get the WeeklyMark Desktop App Here](https://link.funkaey.com/git)
 
 ## License
 MIT License.
