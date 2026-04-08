@@ -21,7 +21,7 @@ Stop guessing what drives sustainable behavior. The ChangePoints Notion Vault is
 
 ### 2. The Gumroad Partner Offer
 Launch partners are being sought in the ESG and Behavioral Science space to join the program.
-* **70% Commission**: For the first 30 days, the standard affiliate split is bumped to 70% for partners.
+* **70% Commission**: For the first 30 days, the standard affiliate split is bumped to 50% for partners.
 * **Done-for-you Marketing**: Partners receive Bento Grid graphics and pre-written copy to simplify promotion.
 * **Lifetime Access**: Launch partners receive the full OS and all future data updates for free.
 
